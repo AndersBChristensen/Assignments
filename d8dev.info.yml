@@ -1,0 +1,6 @@
+name: d8dev
+description: Custom module for misc custom functionality.
+core: 8.x
+package: Custom
+files[]: d8dev.module
+type: module
