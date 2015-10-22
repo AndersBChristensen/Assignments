@@ -50,5 +50,4 @@ function gcd($a, $b) {
     return ( $a % $b )? gcd($b, abs($a - $b)) : $b;
 }
 
-
 ?>
